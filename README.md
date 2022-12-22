@@ -14,13 +14,13 @@
 
 ### 👨‍💻 About Me :
 
-I'm a Sr. Frontend Engineer. 💪
+I'm a Frontend Developer. 💻
 
 - ❤️ I love working on the frontend and contributing to UIs that create great UXs.
 
-- 🌱 I'm currently learning as much as I can about https://html5boilerplate.com/.
+- 🪴 I'm currently learning as much as I can about https://html5boilerplate.com/.
 
-- 👯 I really enjoy collaborating on small business / non-profit websites.
+- 🎆 I really enjoy collaborating on small business / non-profit websites.
 
 - 💬 Feel free to ask me about working together.
 
