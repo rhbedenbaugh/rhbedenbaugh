@@ -22,7 +22,7 @@ I'm a Sr. Frontend Engineer. 💪
 
 - 👯 I really enjoy collaborating on small business / non-profit websites.
 
-- 💬 feel free to ask me about working together.
+- 💬 Feel free to ask me about working together.
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Robert-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robertbedenbaugh/) or robertbedenbaughjr@gmail.com
 
